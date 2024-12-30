@@ -1,3 +1,4 @@
+*.tlog
 .vs
 x64/*
 Debug/*
